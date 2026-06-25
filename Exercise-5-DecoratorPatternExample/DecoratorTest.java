@@ -1,2 +1,0 @@
-// DecoratorTest.java
-
